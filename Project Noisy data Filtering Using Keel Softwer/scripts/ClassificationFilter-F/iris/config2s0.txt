@@ -1,0 +1,12 @@
+algorithm = ClassificationFilter
+inputData = "../datasets/iris/iris-10-3tra.dat" "../datasets/iris/iris-10-3tst.dat" 
+outputData = "../datasets/ClassificationFilter-F.iris/ClassificationFilter-Fs0.iris-10-3tra.dat" "../datasets/ClassificationFilter-F.iris/ClassificationFilter-Fs0.iris-10-3tst.dat" "../datasets/ClassificationFilter-F.iris/result3s0e0.txt"  
+
+seed = 1286082570
+numPartitions = 10
+classifier = knn
+numNeighbors = 1
+distanceType = hvdm
+prune = true
+confidence = 0.25
+itemsetsPerLeaf = 2

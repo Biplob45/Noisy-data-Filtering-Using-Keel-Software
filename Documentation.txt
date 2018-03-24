@@ -1,0 +1,13 @@
+Used Keel Software noisy data Filtering.
+Run : "java -jar RunKeel"  command for result
+Using Algorithm  : KNN-C
+Using Classifier : glass and iris
+Divided 10 fold.
+
+Result:
+Divided 10 fold.
+Using KNN-C Algorithm Find Mean Value.
+using classifier find out:
+1.Global Classification Error
+2.stddev Global Classification Error
+and at last find out Correctly Classified.

@@ -1,0 +1,14 @@
+Friedman Test, Classification
+Classification error in each fold:
+Algorithm = KNN-C
+Fold 0 : 0.06666666666666667 
+Fold 1 : 0.13333333333333333 
+Fold 2 : 0.0 
+Fold 3 : 0.06666666666666667 
+Fold 4 : 0.06666666666666667 
+Fold 5 : 0.06666666666666667 
+Fold 6 : 0.06666666666666667 
+Fold 7 : 0.0 
+Fold 8 : 0.0 
+Fold 9 : 0.0 
+Mean Value: 0.04666666666666666

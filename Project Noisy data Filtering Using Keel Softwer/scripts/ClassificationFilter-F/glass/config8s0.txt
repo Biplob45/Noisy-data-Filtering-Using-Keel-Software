@@ -1,0 +1,12 @@
+algorithm = ClassificationFilter
+inputData = "../datasets/glass/glass-10-9tra.dat" "../datasets/glass/glass-10-9tst.dat" 
+outputData = "../datasets/ClassificationFilter-F.glass/ClassificationFilter-Fs0.glass-10-9tra.dat" "../datasets/ClassificationFilter-F.glass/ClassificationFilter-Fs0.glass-10-9tst.dat" "../datasets/ClassificationFilter-F.glass/result9s0e0.txt"  
+
+seed = 1286082570
+numPartitions = 10
+classifier = knn
+numNeighbors = 1
+distanceType = hvdm
+prune = true
+confidence = 0.25
+itemsetsPerLeaf = 2

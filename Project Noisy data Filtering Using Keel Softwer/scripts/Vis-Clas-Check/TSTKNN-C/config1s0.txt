@@ -1,0 +1,8 @@
+algorithm = Summary of the algorithm, Classification probs.
+inputData = "../results/ClassificationFilter-F.KNN-C.iris/result0.tst" "../results/ClassificationFilter-F.KNN-C.iris/result1.tst" "../results/ClassificationFilter-F.KNN-C.iris/result2.tst" "../results/ClassificationFilter-F.KNN-C.iris/result3.tst" "../results/ClassificationFilter-F.KNN-C.iris/result4.tst" "../results/ClassificationFilter-F.KNN-C.iris/result5.tst" "../results/ClassificationFilter-F.KNN-C.iris/result6.tst" "../results/ClassificationFilter-F.KNN-C.iris/result7.tst" "../results/ClassificationFilter-F.KNN-C.iris/result8.tst" "../results/ClassificationFilter-F.KNN-C.iris/result9.tst" "../results/ClassificationFilter-F.KNN-C.iris/result0.tra" "../results/ClassificationFilter-F.KNN-C.iris/result1.tra" "../results/ClassificationFilter-F.KNN-C.iris/result2.tra" "../results/ClassificationFilter-F.KNN-C.iris/result3.tra" "../results/ClassificationFilter-F.KNN-C.iris/result4.tra" "../results/ClassificationFilter-F.KNN-C.iris/result5.tra" "../results/ClassificationFilter-F.KNN-C.iris/result6.tra" "../results/ClassificationFilter-F.KNN-C.iris/result7.tra" "../results/ClassificationFilter-F.KNN-C.iris/result8.tra" "../results/ClassificationFilter-F.KNN-C.iris/result9.tra" 
+outputData = "../results/Vis-Clas-Check/TSTKNN-C/result1s0.stat" 
+
+seed = 488269753
+subAlgorithm = StatCheckCL
+dataformat = keel
+outlabel = CHK

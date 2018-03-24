@@ -1,0 +1,6 @@
+algorithm = K Nearest Neighbors Classifier
+inputData = "../datasets/ClassificationFilter-F.iris/ClassificationFilter-Fs0.iris-10-6tra.dat" "../datasets/ClassificationFilter-F.iris/ClassificationFilter-Fs0.iris-10-6tra.dat" "../datasets/ClassificationFilter-F.iris/ClassificationFilter-Fs0.iris-10-6tst.dat" ""../datasets/ClassificationFilter-F.iris/result6s0e0.txt" " 
+outputData = "../results/ClassificationFilter-F.KNN-C.iris/result5.tra" "../results/ClassificationFilter-F.KNN-C.iris/result5.tst" "../results/ClassificationFilter-F.KNN-C.iris/result5e0.txt"  
+
+K Value = 1
+Distance Function = Euclidean

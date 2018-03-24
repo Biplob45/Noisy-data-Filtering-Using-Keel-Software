@@ -1,0 +1,6 @@
+algorithm = K Nearest Neighbors Classifier
+inputData = "../datasets/ClassificationFilter-F.glass/ClassificationFilter-Fs0.glass-10-10tra.dat" "../datasets/ClassificationFilter-F.glass/ClassificationFilter-Fs0.glass-10-10tra.dat" "../datasets/ClassificationFilter-F.glass/ClassificationFilter-Fs0.glass-10-10tst.dat" ""../datasets/ClassificationFilter-F.glass/result10s0e0.txt" " 
+outputData = "../results/ClassificationFilter-F.KNN-C.glass/result9.tra" "../results/ClassificationFilter-F.KNN-C.glass/result9.tst" "../results/ClassificationFilter-F.KNN-C.glass/result9e0.txt"  
+
+K Value = 1
+Distance Function = Euclidean

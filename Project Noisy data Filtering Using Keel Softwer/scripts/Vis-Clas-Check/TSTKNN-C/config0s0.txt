@@ -1,0 +1,8 @@
+algorithm = Summary of the algorithm, Classification probs.
+inputData = "../results/ClassificationFilter-F.KNN-C.glass/result0.tst" "../results/ClassificationFilter-F.KNN-C.glass/result1.tst" "../results/ClassificationFilter-F.KNN-C.glass/result2.tst" "../results/ClassificationFilter-F.KNN-C.glass/result3.tst" "../results/ClassificationFilter-F.KNN-C.glass/result4.tst" "../results/ClassificationFilter-F.KNN-C.glass/result5.tst" "../results/ClassificationFilter-F.KNN-C.glass/result6.tst" "../results/ClassificationFilter-F.KNN-C.glass/result7.tst" "../results/ClassificationFilter-F.KNN-C.glass/result8.tst" "../results/ClassificationFilter-F.KNN-C.glass/result9.tst" "../results/ClassificationFilter-F.KNN-C.glass/result0.tra" "../results/ClassificationFilter-F.KNN-C.glass/result1.tra" "../results/ClassificationFilter-F.KNN-C.glass/result2.tra" "../results/ClassificationFilter-F.KNN-C.glass/result3.tra" "../results/ClassificationFilter-F.KNN-C.glass/result4.tra" "../results/ClassificationFilter-F.KNN-C.glass/result5.tra" "../results/ClassificationFilter-F.KNN-C.glass/result6.tra" "../results/ClassificationFilter-F.KNN-C.glass/result7.tra" "../results/ClassificationFilter-F.KNN-C.glass/result8.tra" "../results/ClassificationFilter-F.KNN-C.glass/result9.tra" 
+outputData = "../results/Vis-Clas-Check/TSTKNN-C/result0s0.stat" 
+
+seed = 1343278692
+subAlgorithm = StatCheckCL
+dataformat = keel
+outlabel = CHK
